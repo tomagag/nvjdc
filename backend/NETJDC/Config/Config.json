@@ -13,14 +13,14 @@
       //服务器名称
       "QLName": "阿里云",
       //青龙地址
-      "QLurl": "http://ip:5700",
+      "QLurl": "http://tomag.ddns.net:5700",
       //青龙2,9 OpenApi Client ID
-      "QL_CLIENTID": "",
+      "QL_CLIENTID": "1GYTv62modD-",
       //青龙2,9 OpenApi Client Secret
-      "QL_SECRET": "",
+      "QL_SECRET": "2F9uTWEwVQZ-ounOoPbyyvq3",
       //CK最大数量
       "QL_CAPACITY": 99,
-      "QRurl": ""}
+      "QRurl": "http://www.sina.com.cn"}
   ]
 
 }
